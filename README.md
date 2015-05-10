@@ -15,4 +15,4 @@ These are all the other wikis/resources I know that track this kind of stuff.
 Blogs worth following in this space.
 
 - http://nelenkov.blogspot.com/
-- http://www.strazzere.com/blog/ (currently down though - 5/3/2015)
+- http://www.strazzere.com/blog/
