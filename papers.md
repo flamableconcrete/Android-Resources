@@ -95,3 +95,5 @@
   - 5,560 malware samples
   - 179 malware families
   - Aug 2010 - Oct 2012
+- Android Malware Evaluating Tools
+  - https://github.com/faber03/AndroidMalwareEvaluatingTools
