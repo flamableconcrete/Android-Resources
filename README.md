@@ -17,3 +17,4 @@ Blogs worth following in this space.
 
 - http://nelenkov.blogspot.com/
 - http://www.strazzere.com/blog/
+- http://androidrisk.com/ - Blog associated with "Android Malware and Analysis" book
