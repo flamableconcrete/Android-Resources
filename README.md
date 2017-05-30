@@ -9,7 +9,7 @@ These are all the other wikis/resources I know that track this kind of stuff.
 - https://github.com/ashishb/android-security-awesome
 - https://github.com/secmobi/wiki.secmobi.com
 - http://www.droidsec.org/wiki/
-- https://androidsecuritywiki.com/
+- https://mobilesecuritywiki.com/
 - http://www.nyxbone.com/malware/android_tools.html
 
 ## Blogs
